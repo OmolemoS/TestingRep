@@ -15,6 +15,7 @@ public class Gittesting {
         System.out.print("Hello Boy");
         System.out.println("Boss Zonke");
         System.out.println("Whats the qwa");
-        System.out.println("Whats the time");
+        System.out.println("ka time ka nako");
+        
     }
 }
